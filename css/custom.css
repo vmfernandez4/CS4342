@@ -1,0 +1,12 @@
+/* your styles go here */
+.dummy-table th {
+    border: 3px solid black;
+}
+
+.dummy-table td{
+    border: 3px solid black;
+}
+
+h1{
+    color: red;
+}
